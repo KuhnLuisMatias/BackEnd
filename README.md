@@ -1,4 +1,9 @@
-# tutorial_jwt_BACK
-jwt security api REST 
+#USUARIOS para la conexión
 
-basic CRUD with JWT authentication based on roles
+Administrador
+Usuario: admin
+Contraseña: 12345
+
+Visitante
+Usuario: user
+Contraseña: 12345
