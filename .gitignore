@@ -1,2 +1,11 @@
 # Project exclude paths
 /target/
+# --- Secretos y archivos locales (no subir credenciales) ---
+.idea/
+*.iml
+*.class
+.env
+*.bak
+target/
+src/main/resources/application-local.properties
+# Credenciales DB: usar variables de entorno (CLEVER_* / SPRING_DATASOURCE_*)
